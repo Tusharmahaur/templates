@@ -5,7 +5,7 @@ using namespace std;
 
 const int size = 3;
 
-template<class T>
+template <class T>
 class Vector{
     T *v;
     public:
